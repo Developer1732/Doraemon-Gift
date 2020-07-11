@@ -1,0 +1,20 @@
+body{
+  background-color: #4cd3c2;
+  text-align: center;
+  font-family: 'Playball', cursive
+}
+
+h2{
+  font-size: 50px;
+}
+
+.cake{
+  height: 550px;
+  width: 100%;
+}
+
+.image{
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+}
